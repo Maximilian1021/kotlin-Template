@@ -1,0 +1,6 @@
+name: L4Utils
+api-version: 1.16
+authors:
+  - l4zs
+main: de.l4zs.l4utils.L4Utils
+version: @version@
